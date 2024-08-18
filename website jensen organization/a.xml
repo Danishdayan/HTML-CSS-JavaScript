@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="abc.xsl" ?>
+
+<persondata>
+<user id="1">
+     <firstname>Faiz</firstname>
+     <lastname>Ali</lastname>
+     <email>shaikhfaiz793@gmail.com</email>
+     <price>20</price>
+</user>
+
+<user id="2">
+     <firstname>a</firstname>
+     <lastname>Ali</lastname>
+     <email>shaikhfaiz793@gmail.com</email>
+       <price>40</price>
+</user>
+
+<user id="3" >
+     <firstname>b</firstname>
+     <lastname>Ali</lastname>
+     <email>shaikhfaiz793@gmail.com</email>
+       <price>50</price>
+</user>
+
+<user id="4">
+     <firstname>c</firstname>
+     <lastname>Ali</lastname>
+     <email>shaikhfaiz793@gmail.com</email>
+       <price>60</price>
+</user>
+</persondata>
